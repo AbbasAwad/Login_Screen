@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loge Screen1", "Loge Screen1.csproj", "{461BA394-9A21-4F80-B644-C8CBF73F9A5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461BA394-9A21-4F80-B644-C8CBF73F9A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461BA394-9A21-4F80-B644-C8CBF73F9A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461BA394-9A21-4F80-B644-C8CBF73F9A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461BA394-9A21-4F80-B644-C8CBF73F9A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47A7539B-FE0B-4A35-94AA-97472D83396C}
+	EndGlobalSection
+EndGlobal

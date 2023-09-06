@@ -1,0 +1,12 @@
+E:\Windows Form Applocations\Loge Screen1\bin\Debug\Loge Screen1.exe.config
+E:\Windows Form Applocations\Loge Screen1\bin\Debug\Loge Screen1.exe
+E:\Windows Form Applocations\Loge Screen1\bin\Debug\Loge Screen1.pdb
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge Screen1.csproj.AssemblyReference.cache
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge Screen1.csproj.SuggestedBindingRedirects.cache
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge_Screen1.Form1.resources
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge_Screen1.Properties.Resources.resources
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge Screen1.csproj.GenerateResource.cache
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge Screen1.csproj.CoreCompileInputs.cache
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge Screen1.exe
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge Screen1.pdb
+E:\Windows Form Applocations\Loge Screen1\obj\Debug\Loge_Screen1.Form2.resources
